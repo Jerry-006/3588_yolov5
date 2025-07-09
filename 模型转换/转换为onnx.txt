@@ -1,0 +1,2 @@
+在yolov5环境下，终端运行以下代码
+python export.py --weights path/to/your_model.pt --include onnx --img 640 --batch 1 #转换模型用
